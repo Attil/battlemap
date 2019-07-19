@@ -1,0 +1,12 @@
+{
+  "name": "battlemap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Attil/battlemap.git",
+  "author": "Damian Rakowski <damian.rakowski@codilime.com>",
+  "license": "MIT",
+  "dependencies": {
+    "interact": "^0.0.3",
+    "interactjs": "^1.5.3"
+  }
+}
